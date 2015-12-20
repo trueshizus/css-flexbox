@@ -1,0 +1,30 @@
+1) Create index.html and style.css
+2) Create a layout with html snipet
+3) Add Bootstrap CDN
+4) Start server
+5) Link style.css
+6) Click on live reload!
+7) Create the basic layout with: .container-fluid>.row>.col-md-1+.col-md-2.movie.movie-$*5>{$}^+.col-md-1
+8) Add some css:
+
+  .top-five-container {
+    border: #11f6c2 5px solid;
+  }
+
+  .movie {
+    color: white;
+    font-size: 50px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    text-shadow: 3px 3px #333;
+  }
+
+  .movie-X { background-color: #xxx}
+
+9) Presentation:
+  a) Change container-fluid to container.
+  b) Change container background.
+  c) Change container heigth to 250px.
+  d) Vertical center with margin
+

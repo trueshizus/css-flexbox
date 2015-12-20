@@ -1,0 +1,22 @@
+.top-five-container {
+  height: 250px;
+  border: #11f6c2 5px solid;
+  background-color: #3edbd4;
+}
+
+
+.movie {
+  color: white;
+  font-size: 50px;
+  height: 200px;
+  line-height: 200px;
+  text-align: center;
+  text-shadow: 3px 3px #333;
+  margin-top: 20px;
+}
+
+.movie-1 { background-color: #835971 }
+.movie-2 { background-color: #096b0d }
+.movie-3 { background-color: #66aeed }
+.movie-4 { background-color: #2d8e79 }
+.movie-5 { background-color: #768e9f }
