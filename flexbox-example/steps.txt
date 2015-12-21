@@ -1,0 +1,31 @@
+1) Create basic layout
+2) Create structures with:
+  section.top-movies>.movie.movie-$*5>{$}
+
+3) Add css:
+
+
+.top-movies {
+  background-color: #583b93;
+}
+
+.movie {
+  color: white;
+  font-size: 100px;
+  height: 200px;
+  line-height: 200px;
+  text-align: center;
+  text-shadow: 3px 3px #333;
+}
+
+.movie-X { background-color: #xxx}
+
+4)  Add display flex to .top-movies
+    Add width: 150px to .movie
+    Add margin: 50px to .movie
+
+5) Add height: 250px .movie-1;
+   Add line-height: 250px .movie-1;
+
+6) Add order to elements;
+

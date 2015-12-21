@@ -1,0 +1,46 @@
+/*FLEX CONTAINER*/
+
+.top-movies {
+  background-color: #583b93;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+/*FLEX ELMENTS*/
+
+.movie {
+  width: 100%;
+  margin: 10px;
+  color: white;
+  font-size: 100px;
+  height: 200px;
+  line-height: 200px;
+  text-align: center;
+  text-shadow: 3px 3px #333;
+}
+
+.movie-1 {
+  background-color: #f88935;
+  height: 250px;
+  line-height: 250px;
+  order: 3;
+}
+.movie-2 {
+  background-color: #993fd8;
+  order: 2;
+}
+.movie-3 {
+  background-color: #64f717;
+  order: 4;
+}
+.movie-4 {
+  background-color: #aaff97;
+  order: 1;
+}
+.movie-5 {
+  background-color: #a12df3;
+  order: 5;
+}
